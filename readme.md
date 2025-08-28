@@ -38,7 +38,7 @@ Restart Jenkins once plugins are installed
 
 Now Jenkins is ready to use.
 
-# EKS
+## EKS
 
 * Make sure roboshop namespace exist.
 * make sure EKS control plane allows Jenkins agent to connect on port 443 HTTPS.
